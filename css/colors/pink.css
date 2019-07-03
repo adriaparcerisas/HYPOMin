@@ -1,0 +1,77 @@
+::-moz-selection { color: #fff; background: #d18a9a; }
+::-webkit-selection { color: #fff; background: #d18a9a; }
+::selection { color: #fff; background: #d18a9a; }
+
+.navbar-toggle:focus .icon-bar,
+.cart-inner a > span,
+.project-icons a:hover,
+#back-to-top:hover,
+.team-details .social-icons a:hover,
+.promo-section .btn.btn-white:hover,
+.nav-cart-remove:hover,
+.ui-slider .ui-slider-range,
+.product-remove .remove:hover,
+.widget.popular-latest .nav.nav-tabs > li.active > a,
+.widget.popular-latest .nav.nav-tabs > li.active > a:hover,
+.widget.popular-latest .nav.nav-tabs > li.active > a:focus,
+.tags a:hover,
+.blockquote-style-1,
+.dropcap.style-2,
+.highlight,
+.btn.btn-color,
+.btn-transparent:hover,
+.btn.btn-stroke:hover,
+.btn.btn-light:hover,
+.social-icons:not(.colored) a:hover,
+.meter .progress-bar,
+.nav-type-6 .overlay-menu ul li:hover {
+	background-color: #d18a9a; 
+}
+
+a,
+a:hover,
+a:focus,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover,
+.megamenu .menu-list > li > a:hover,
+.megamenu-wide .menu-list > li > a:hover,
+.work-item .work-description > span > a:hover,
+.top-bar-links li a:hover,
+.nav-cart-title > a:hover,
+.product-details > h3:hover > a,
+.product-list-widget a:hover,
+.product-img .product-add-to-wishlist a:hover,
+.product_meta span a:hover,
+.table.shop_table .product-name > a:hover,
+#ticker a:hover,
+.entry-meta li a:hover,
+.widget.categories ul li a:hover,
+#recent-comments li a:hover,
+.overlay-menu ul li.active > a,
+.overlay-menu ul li a:hover,
+.breadcrumb a:hover,
+.page-title.style-2 .breadcrumb a:hover,
+blockquote > span,
+.dropcap.style-1,
+.bullets li:before,
+.arrows i,
+.checks i,
+.counters i,
+.dark-link:hover,
+.icon-boxes.style-5 .service-item-wrap:hover .service-item-box i {
+	color: #d18a9a;
+}
+
+.pagination a:hover,
+.pagination .current,
+.widget.popular-latest .nav.nav-tabs > li.active > a,
+.widget.popular-latest .nav.nav-tabs > li.active > a:hover,
+.widget.popular-latest .nav.nav-tabs > li.active > a:focus,
+.blockquote-style-2 {
+	border-color: #d18a9a;
+}
+
+.dropdown-menu,
+.nav-cart-container {
+	border-top-color: #d18a9a;
+}

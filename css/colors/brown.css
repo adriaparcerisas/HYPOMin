@@ -1,0 +1,133 @@
+::-moz-selection { color: #fff; background: #c2a191; }
+::-webkit-selection { color: #fff; background: #c2a191; }
+::selection { color: #fff; background: #c2a191; }
+
+
+.navbar-toggle:focus .icon-bar,
+.navbar-toggle:hover .icon-bar,
+.btn,
+.btn-dark:hover,
+.btn-stroke:hover,
+.btn-light-blue:hover,
+.btn-transparent:hover,
+#back-to-top:hover,
+.tp-caption .largebtn:hover,
+.tp-leftarrow.default:hover,
+.tp-rightarrow.default:hover,
+.tp-bullets.simplebullets .bullet:hover,
+.tp-bullets.simplebullets .bullet.selected,
+.tp-caption .largebtn.white:hover,
+.dropcap.style-2,
+.highlight,
+.call-to-action,
+.meter .progress-bar,
+.icon-add-to-wishlist a:hover,
+.pagination a:hover,
+.ui-slider .ui-slider-range,
+.tags a:hover,
+.project-icons a:hover,
+.customNavigation a:hover {
+	background-color: #c2a191; 
+}
+
+a,
+a:hover,
+a:focus,
+.navbar-nav > li > a:hover,
+.navbar-nav > .active > a,
+.navbar-nav > .active > a:focus,
+.navbar-nav > .active > a:hover,
+.navbar-nav > .open > a,
+.navbar-nav > .open > a:focus,
+.navbar-nav > .open > a:hover,
+.menu-cart-title > a:hover,
+.account-wrap ul > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover,
+.megamenu .menu-list > li > a:hover,
+.megamenu-wide .menu-list > li > a:hover,
+.navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-nav > li > a:hover,
+.dropdown-menu .megamenu-wrap ul > li > a:hover,
+.top-bar-currency-language li a:hover,
+.top-bar-acc li a:hover,
+.shop-by-category .category-list > li > a:hover,
+.flyout-content .flyout-subcats .submenu ul > li > a:hover,
+.dropdown-menu .megamenu-wrap ul > li > a:hover,
+.navbar-nav .open .dropdown-menu > li > a:hover,
+.collection-description a:hover,
+.entry-meta li a:hover,
+.entry-title h4 a:hover,
+.blog-content .entry-title h2 a:hover,
+.footer-widgets a:hover,
+.newsletter-submit:hover i,
+.copyright a:hover,
+.service-item i:hover,
+.product-tabs .nav.nav-tabs > li.active > a,
+.product-details .category > a:hover,
+.product-details > h3:hover > a,
+.product-tabs .nav.nav-tabs > li > a:hover,
+.product-img .product-add-to-wishlist a:hover,
+.product-list-widget li a:hover,
+.product-img.hover-2 .category > a,
+.product-img.hover-2 .product-details > a > p:hover,
+.product-img.hover-2 .product-add-to-wishlist a:hover,
+.breadcrumb a:hover,
+.page-title.style-2 .breadcrumb a:hover,
+blockquote > span,
+.bullets li:before,
+.arrows i,
+.checks i,
+.accordion > .acc-panel > a.active,
+.accordion > .acc-panel > a.active:after,
+.accordion > .acc-panel > a:hover,
+.nav.nav-tabs > li.active > a,
+.nav-tabs > li > a:hover,
+.widget.categories ul li a:hover,
+.widget.latest-posts ul li a:hover,
+#slider .slides li i:hover,
+.flexslider .flex-direction-nav .flex-nav-next:hover a,
+.flexslider .flex-direction-nav .flex-nav-prev:hover a,
+.single-product .product_meta span a:hover,
+.table.shop_table .product-name > a:hover,
+.blog-content .entry-item blockquote > p > a:hover,
+.blog-masonry .blockquote blockquote > p > a:hover,
+.blog-masonry .entry-title.post-link h2 a:hover,
+.related-posts a:hover h5,
+.portfolio-filter a.active,
+.portfolio-filter a:hover,
+.work-item .work-description h2 > a:hover,
+.work-item .work-description > span > a:hover,
+.portfolio-description ul > li a:hover,
+.team-details span {
+	color: #c2a191;
+}
+
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="email"]:focus,
+input[type="number"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="time"]:focus,
+input[type="url"]:focus,
+textarea:focus,
+.form-control:focus {
+	border-color: #c2a191;
+}
+
+.dropdown-menu,
+.menu-cart-container {
+	border-top: 2px solid #c2a191;
+}
+
+.blockquote-style-2 {
+	border-left: 3px solid #c2a191;
+}
+
