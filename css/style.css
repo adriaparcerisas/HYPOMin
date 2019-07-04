@@ -27,6 +27,8 @@ Table of Content
 .right { float: right; }
 .bg-light { background-color: #f5f5f5; }
 .bg-dark { background-color: #121212; }
+.bg-blue { background-color: #1D51FB; }
+.bg-green { background-color: #05BB2C; }
 .uppercase { text-transform: uppercase; letter-spacing: 0.05em; }
 .last { margin-bottom: 0 !important;}
 
