@@ -1,6 +1,6 @@
-::-moz-selection { color: #fff; background: #2cb8a5; }
-::-webkit-selection { color: #fff; background: #2cb8a5; }
-::selection { color: #fff; background: #2cb8a5; }
+::-moz-selection { color: #fff; background: #0EA5FC; }
+::-webkit-selection { color: #fff; background: #0EA5FC; }
+::selection { color: #fff; background: #0EA5FC; }
 
 .navbar-toggle:focus .icon-bar,
 .cart-inner a > span,
@@ -25,7 +25,7 @@
 .social-icons:not(.colored) a:hover,
 .meter .progress-bar,
 .nav-type-6 .overlay-menu ul li:hover {
-	background-color: #2cb8a5; 
+	background-color: #0EA5FC; 
 }
 
 a,
@@ -59,7 +59,7 @@ blockquote > span,
 .counters i,
 .dark-link:hover,
 .icon-boxes.style-5 .service-item-wrap:hover .service-item-box i {
-	color: #2cb8a5;
+	color: #0EA5FC;
 }
 
 .pagination a:hover,
@@ -68,10 +68,10 @@ blockquote > span,
 .widget.popular-latest .nav.nav-tabs > li.active > a:hover,
 .widget.popular-latest .nav.nav-tabs > li.active > a:focus,
 .blockquote-style-2 {
-	border-color: #2cb8a5;
+	border-color: #0EA5FC;
 }
 
 .dropdown-menu,
 .nav-cart-container {
-	border-top-color: #2cb8a5;
+	border-top-color: #0EA5FC;
 }
